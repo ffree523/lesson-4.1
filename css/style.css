@@ -1,0 +1,24 @@
+* {
+    color: red;
+}
+p {
+    color:  blue;
+}
+.list-item2{
+    color:  fuchsia;
+}
+#list-id{
+    color:  gold;
+}
+[data-text-type] {
+    color:  chartreuse;
+}
+[data-text-type="data-text-2"] {
+    color:  grey;
+}
+.multiclass1  {
+    color: olive;
+}
+.multiclass2 {
+    color: indianred;
+}
