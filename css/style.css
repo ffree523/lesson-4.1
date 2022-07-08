@@ -4,7 +4,7 @@
 p {
     color:  blue;
 }
-.list-item2{
+.list-item2 {
     color:  fuchsia;
 }
 #list-id{
@@ -21,4 +21,11 @@ p {
 }
 .multiclass2 {
     color: indianred;
+}
+.vudelenno {
+    font-weight: bold;
+    background-color: blue;
+}
+#ul-list li {
+    color: hotpink;
 }
