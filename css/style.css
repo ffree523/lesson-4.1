@@ -1,7 +1,7 @@
 * {
     color: red;
 }
-p {
+.paragraph {
     color:  blue;
 }
 .list-item2 {
@@ -28,4 +28,7 @@ p {
 }
 #ul-list li {
     color: hotpink;
+}
+.paragraph.green {
+    color: green;
 }
